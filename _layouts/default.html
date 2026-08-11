@@ -97,7 +97,7 @@
       width: 100%; height: 100%;
       object-fit: cover;
       border-radius: 50%;
-      transform: scale(1.15) translateY(-4%);
+      transform: scale(1.25) translateY(-6%);
     }
     .hero h1 {
       font-family: 'Playfair Display', serif;
@@ -281,10 +281,10 @@
       letter-spacing: 0.01em;
     }
 
-    /* ── AWARD CARD ── */
-    .card--award { border-left-color: var(--amber); }
-    .award-title { font-weight: 600; color: var(--navy); margin: 0.5rem 0 0.15rem; }
-    .award-meta  { font-size: 0.9rem; color: var(--gray); margin-bottom: 0.4rem; }
+    /* ── AWARD (timeline highlight) ── */
+    .timeline-item--award::before { background: var(--amber); box-shadow: 0 0 0 2px var(--amber); }
+    .timeline-item--award .timeline-title { font-size: 1.08rem; }
+    .award-note { font-size: 0.9rem; color: var(--gray); margin-bottom: 0; }
 
     /* ── CV DOWNLOAD BUTTON ── */
     .cv-download-btn {

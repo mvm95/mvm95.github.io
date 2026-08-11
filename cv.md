@@ -43,16 +43,12 @@ title: Curriculum Vitae
 ## Awards &amp; Honors
 
 <div class="timeline">
-  <div class="timeline-item">
+  <div class="timeline-item timeline-item--award">
     <div class="timeline-date">2026</div>
-    <div class="timeline-title">EMBC 2026 Best Paper Awards</div>
-    <div class="timeline-sub">IEEE Engineering in Medicine and Biology Conference (EMBC)</div>
-    <p style="font-size:0.92rem;">For <em>Evaluating Vocal Dynamics in Children Using a Neuromorphic Approach</em>.</p>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2026</div>
-    <div class="timeline-title">Student Paper Competition — Finalist</div>
-    <div class="timeline-sub">IEEE Engineering in Medicine and Biology Conference (EMBC)</div>
+    <div class="timeline-title">🏆 Best Paper Award <span class="pub-award">Winner</span></div>
+    <div class="timeline-sub">IEEE Engineering in Medicine and Biology Conference (EMBC 2026)</div>
+    <p style="font-size:0.92rem;">Awarded for <em>Evaluating Vocal Dynamics in Children Using a Neuromorphic Approach</em>.</p>
+    <p class="award-note">Also <strong>Finalist</strong>, Student Paper Competition.</p>
   </div>
 </div>
 
