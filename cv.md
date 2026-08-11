@@ -40,6 +40,22 @@ title: Curriculum Vitae
   </div>
 </div>
 
+## Awards &amp; Honors
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2026</div>
+    <div class="timeline-title">EMBC 2026 Best Paper Awards</div>
+    <div class="timeline-sub">IEEE Engineering in Medicine and Biology Conference (EMBC)</div>
+    <p style="font-size:0.92rem;">For <em>Evaluating Vocal Dynamics in Children Using a Neuromorphic Approach</em>.</p>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2026</div>
+    <div class="timeline-title">Student Paper Competition — Finalist</div>
+    <div class="timeline-sub">IEEE Engineering in Medicine and Biology Conference (EMBC)</div>
+  </div>
+</div>
+
 ## Work Experience
 
 <div class="timeline">

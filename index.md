@@ -9,6 +9,22 @@ I work with social robots, but not to make them smarter. What interests me is wh
 
 On the computational side I take a neuromorphic approach, brain-inspired signal processing that tries to make sense of biological data the way biology does. There's something appealing about using the brain as a model for understanding the brain.
 
+## Awards &amp; Honors
+
+<div class="card card--award">
+  <span class="pub-award">🏆 Award</span>
+  <div class="award-title">EMBC 2026 Best Paper Awards</div>
+  <div class="award-meta">IEEE Engineering in Medicine and Biology Conference (EMBC) · 2026</div>
+  <p style="font-size:0.92rem; margin-bottom:0;">For <em>Evaluating Vocal Dynamics in Children Using a Neuromorphic Approach</em>.</p>
+</div>
+
+<div class="card card--award">
+  <span class="pub-award">Finalist</span>
+  <div class="award-title">Student Paper Competition — Finalist</div>
+  <div class="award-meta">IEEE Engineering in Medicine and Biology Conference (EMBC) · 2026</div>
+  <p style="font-size:0.92rem; margin-bottom:0;">Selected among the finalists of the EMBC Student Paper Competition.</p>
+</div>
+
 ## Research Interests
 
 <div class="interests-grid">
